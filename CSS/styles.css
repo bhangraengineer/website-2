@@ -10,8 +10,9 @@ p{
 }
 h1{
   margin-top: 0;
-font-family: 'Jomhuria', cursive;
-color: #66BFBF;
+font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif;
+color: black;
+font-size: 60px;
 margin-bottom: 30px
 }
 h2{
@@ -72,7 +73,9 @@ background-color: #e4f9f6;
 }
 
 .bottom-cloud{
-  position: absolute;
+    position: absolute;
+  left: 200px;
+  bottom: 200px;
 }
 .contact-me{
   margin: 40px;
